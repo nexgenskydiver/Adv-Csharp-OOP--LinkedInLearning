@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\bin\Debug\net9.0\AbstractPropsFuncs.exe
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\bin\Debug\net9.0\AbstractPropsFuncs.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\bin\Debug\net9.0\AbstractPropsFuncs.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\bin\Debug\net9.0\AbstractPropsFuncs.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\bin\Debug\net9.0\AbstractPropsFuncs.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\refint\AbstractPropsFuncs.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\AbstractPropsFuncs.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module04_AbstractAndSealedClasses\AbstractPropsFuncs\obj\Debug\net9.0\ref\AbstractPropsFuncs.dll
