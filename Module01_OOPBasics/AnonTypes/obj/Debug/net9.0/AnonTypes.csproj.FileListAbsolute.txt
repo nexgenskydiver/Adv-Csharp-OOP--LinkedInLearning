@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\bin\Debug\net9.0\AnonTypes.exe
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\bin\Debug\net9.0\AnonTypes.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\bin\Debug\net9.0\AnonTypes.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\bin\Debug\net9.0\AnonTypes.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\bin\Debug\net9.0\AnonTypes.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\refint\AnonTypes.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\AnonTypes.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\AnonTypes\obj\Debug\net9.0\ref\AnonTypes.dll

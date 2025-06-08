@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\bin\Debug\net9.0\PropsMethods.exe
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\bin\Debug\net9.0\PropsMethods.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\bin\Debug\net9.0\PropsMethods.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\bin\Debug\net9.0\PropsMethods.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\bin\Debug\net9.0\PropsMethods.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\refint\PropsMethods.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\PropsMethods.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module01_OOPBasics\PropsMethods\obj\Debug\net9.0\ref\PropsMethods.dll
