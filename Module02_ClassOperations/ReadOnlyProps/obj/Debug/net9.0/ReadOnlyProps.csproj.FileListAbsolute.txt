@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\bin\Debug\net9.0\ReadOnlyProps.exe
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\bin\Debug\net9.0\ReadOnlyProps.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\bin\Debug\net9.0\ReadOnlyProps.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\bin\Debug\net9.0\ReadOnlyProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\bin\Debug\net9.0\ReadOnlyProps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\refint\ReadOnlyProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ReadOnlyProps.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\ReadOnlyProps\obj\Debug\net9.0\ref\ReadOnlyProps.dll

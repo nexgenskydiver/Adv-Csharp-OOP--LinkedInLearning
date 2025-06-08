@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\bin\Debug\net9.0\InitProps.exe
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\bin\Debug\net9.0\InitProps.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\bin\Debug\net9.0\InitProps.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\bin\Debug\net9.0\InitProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\bin\Debug\net9.0\InitProps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\refint\InitProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\InitProps.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\InitProps\obj\Debug\net9.0\ref\InitProps.dll

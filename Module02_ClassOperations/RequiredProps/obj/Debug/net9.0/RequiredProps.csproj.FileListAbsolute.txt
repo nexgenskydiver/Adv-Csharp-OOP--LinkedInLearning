@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\bin\Debug\net9.0\RequiredProps.exe
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\bin\Debug\net9.0\RequiredProps.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\bin\Debug\net9.0\RequiredProps.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\bin\Debug\net9.0\RequiredProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\bin\Debug\net9.0\RequiredProps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\refint\RequiredProps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\RequiredProps.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module02_ClassOperations\RequiredProps\obj\Debug\net9.0\ref\RequiredProps.dll
