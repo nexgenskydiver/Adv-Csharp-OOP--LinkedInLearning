@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\bin\Debug\net9.0\StaticClasses.exe
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\bin\Debug\net9.0\StaticClasses.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\bin\Debug\net9.0\StaticClasses.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\bin\Debug\net9.0\StaticClasses.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\bin\Debug\net9.0\StaticClasses.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\refint\StaticClasses.dll
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\StaticClasses.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Adv-Csharp-OOP--LinkedInLearning\Module03_StaticClassAndMethods\StaticClasses\obj\Debug\net9.0\ref\StaticClasses.dll
